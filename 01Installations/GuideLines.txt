@@ -1,0 +1,14 @@
+Step1: Install python 3.6.3 from the following link:
+https://www.python.org/downloads/release/python-363/
+
+
+
+Step 2: Install Anaconda framework of python link:
+https://www.anaconda.com/download/#windows
+
+if u need any installation help, follow this video:
+  https://www.youtube.com/watch?v=LrMOrMb8-3s&t=550
+
+
+Step3: Python Tutorial link that I M following : 
+https://www.py4e.com
